@@ -1,2 +1,2 @@
-# DS-Projec
+# DS-Project
 Data Structure / Project
